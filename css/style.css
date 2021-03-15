@@ -1,0 +1,142 @@
+/*header*/
+.bg-image{
+	background-image: url("../image/Header.jpg");
+	width: 1280px;
+	height: 900px;
+	position: relative;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 0 auto;
+}
+/*section2*/
+.container{
+	width: 1280px;
+	margin: 0 auto;
+}
+.left-block{
+	width: 640px;
+	height: 601.44px;
+	background-color: #FFFFFF;
+}
+.title{
+    margin-top: 90px;
+    margin-left: 86px;
+}
+.right-block{
+    width: 640px;
+	height: 601.44px;
+}
+.wrapper{
+	display: flex;
+	align-items: center;
+}
+h2{
+	width: 468px;
+	font-size: 50px;
+	color: #000000;
+	font-family: 'Lato', sans-serif;
+	margin-bottom: 24px;
+}
+.p1{
+    width: 457px;
+    font-size: 16px;
+    color: #918F8F;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 56px;
+}
+.description{
+    width: 307px;
+    height: 72px;
+    background-color: #325DFF;
+    border-radius: 36px;
+    position: relative;
+}
+h4{
+	width: 217px;
+	color: #FFFFFF;
+	font-size: 14;
+	font-family: 'Lato', sans-serif;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	text-align: center;
+}
+/*section3*/
+.information{
+	background-color: #FAFAFA;
+	height: 1161px;
+	width: 1280px;
+	margin: 0 auto;
+
+}
+.container2{
+	width: 1171px;
+	height: 965px;
+	margin: 0 auto;
+}
+.box1{
+	width: 371px;
+	height: 374px;
+	position: relative;
+	border: 0.5px solid #CECECE;
+}
+.info-wrapper{
+	display: flex;
+	justify-content: space-between;
+}
+.info{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	text-align: center;
+}
+.paragraf{
+	width: 771px;
+	height: 71px;
+	text-align: center;
+	margin-left: 255px;
+	font-size: 16px;
+	color: #918F8F;
+	font-family: 'Poppins', sans-serif;
+	margin-bottom: 64px;
+	margin-top: 9px;
+}
+h3{
+	font-size: 35px;
+	text-align: center;
+    padding-top: 76.6px;
+}
+h5{
+	font-size: 18px;
+	font-family: 'Lato', sans-serif;
+	margin-top: 27px;
+	margin-bottom: 9px;
+}
+.p3{
+	width: 251px;
+	font-size: 16px;
+	font-family: 'Poppins', sans-serif;
+	color: #918F8F;
+}
+.icon{
+	background-color: #325DFF;
+	width: 88px;
+	height: 88px;
+	border-radius: 50px;
+	position: relative; 
+	margin-left:83px;
+}	
+.icon1{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	text-align: center;
+
+}
+.top{
+	margin-bottom: 25px;
+}
